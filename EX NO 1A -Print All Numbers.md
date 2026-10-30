@@ -13,7 +13,7 @@ To Write a Java program that takes an integer input N from the user and prints a
 
 
 ## Program:
-```
+```java
 /*
 Program to implement Reverse a String
 Developed by: Shehan Shajahan
