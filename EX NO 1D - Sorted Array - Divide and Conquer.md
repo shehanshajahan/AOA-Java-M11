@@ -18,7 +18,7 @@ The overall run time complexity should be O(log (m+n)).
 ## Program:
 ```java
 /*
-Program to implement Reverse a String
+Program for Sorted Array using Divide and Conquer
 Developed by: Shehan Shajahan
 Register Number:  212223240154
 */
