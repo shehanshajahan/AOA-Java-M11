@@ -20,7 +20,7 @@ x if x >= 0.
 ## Program:
 ```java
 /*
-Program to implement Reverse a String
+Program to find valid pairs
 Developed by: Shehan Shajahan
 Register Number:  212223240154
 */
